@@ -1,0 +1,30 @@
+.navbar {
+    width: 100%;
+    background-color: black;
+    height: 60px;
+    margin-top: auto;
+}
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+    padding: 20px;
+}
+.link:hover{
+    color: gray;
+}
+.home {
+    color: red;
+}
+.error {
+    color: aqua;
+}
+.page1 {
+    color: green;
+}
+.page2 {
+    color: blue;
+}
+.page3 {
+    color: purple;
+}
